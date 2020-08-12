@@ -1,0 +1,3 @@
+x: int = 1
+# ... a bunch of intervening code ...
+x = 1.5
